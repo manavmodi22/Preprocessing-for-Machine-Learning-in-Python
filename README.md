@@ -11,9 +11,9 @@ Finally, I practised preprocessing by getting a dataset on UFO sightings ready f
 
 # Table of Contents
 1. [Introduction to Data Preprocessing](#introduction-to-data-preprocessing)
-2. [Standardizing Data](#example2)
-3. [What is Feature Engineering?](#what-is-feature-engineering?)
-4. [What is Feature Selection?](#what-is-feature-selection?)
+2. [Standardizing Data](#standardizing-data)
+3. [What is Feature Engineering?](#what-is-feature-engineering-?)
+4. [What is Feature Selection?](#what-is-feature-selection-?)
 5. [Case Study](#case-study)
 
 
@@ -26,11 +26,11 @@ It is the step where we prepare the data for modeling. Modeling in Python needs 
 
 It is a preprocessing method used to transform continuous data to make it look normally distributed. Checkout more about it [here](https://dev.to/manavmodi/standardizing-data-283i)
 
-## [What is Feature Engineering?](https://github.com/manavmodi22/Preprocessing-for-Machine-Learning-in-Python/blob/main/data_preprocessing_chapter3_exercise.ipynb)
+## [What is Feature Engineering ?](https://github.com/manavmodi22/Preprocessing-for-Machine-Learning-in-Python/blob/main/data_preprocessing_chapter3_exercise.ipynb)
 
 Feature Engineering is the process of the creation of new features based on existing features. Checkout more about it [here](https://dev.to/manavmodi/what-is-feature-engineering-35pg)
 
-## [What is Feature Selection?](https://github.com/manavmodi22/Preprocessing-for-Machine-Learning-in-Python/blob/main/data_preprocessing_chapter4_exercise.ipynb)
+## [What is Feature Selection ?](https://github.com/manavmodi22/Preprocessing-for-Machine-Learning-in-Python/blob/main/data_preprocessing_chapter4_exercise.ipynb)
 
 Feature Selection is the method of selecting features from the existing set to be used for modeling. It doesn't create new features. Checkout more about it [here](https://dev.to/manavmodi/what-is-feature-selection-1hkn)
 
